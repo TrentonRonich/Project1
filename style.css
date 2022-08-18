@@ -37,7 +37,7 @@ body {
   /*JUMBOTRON*/
   .jumbotron {
 	height: 100vh; /*height to 100% of view height*/
-	background: grey; /*background color to blue*/
+	background: grey; /*background color to Grey*/
 	margin-bottom: 0; /*no bottom margin*/
   
 	display: flex;
@@ -45,7 +45,6 @@ body {
   }
   
   .jumbotron-text {
-	/*TAGLINE UNDER NAME*/
 	font-weight: 400;
 	font-size: 2em;
 	color: white;
@@ -140,7 +139,6 @@ body {
   
   /*CONTACT*/
   .blue {
-	background: ;
 	text-align: center;
   }
   
@@ -157,7 +155,7 @@ body {
 	border: none;
 	margin-bottom: 10px;
 	background: White;
-	color: black;
+	color: black ;
 
   }
   
