@@ -2,7 +2,7 @@
 
 body {
 	font-family: 'Raleway', sans-serif;
-	background: grey;
+	background: whitesmoke;
 	margin: 0;
   }
   
@@ -12,7 +12,7 @@ body {
   
   /*NAVBAR*/
   .navbar {
-	background-color:#31b0d5 ;
+	background-color:black ;
 	position: fixed; /* Set the navbar to fixed position */
 	top: 0; /* Position the navbar at the top of the page */
 	width: 100%; /* Full width */
@@ -37,7 +37,7 @@ body {
   /*JUMBOTRON*/
   .jumbotron {
 	height: 100vh; /*height to 100% of view height*/
-	background: grey; /*background color to Grey*/
+	background: whitesmoke; /*background color to White*/
 	margin-bottom: 0; /*no bottom margin*/
   
 	display: flex;
@@ -47,7 +47,7 @@ body {
   .jumbotron-text {
 	font-weight: 400;
 	font-size: 2em;
-	color: white;
+	color:black;
 	text-align: center;
 	padding-top: 150px;
   }
@@ -94,7 +94,7 @@ body {
   }
   
   .white {
-	background:grey;
+	background:whitesmoke;
   }
   
   .side-content {
@@ -132,7 +132,7 @@ body {
   
   .content-body {
 	line-height: 1.5;
-	color: rgba(0,0,0,.75);
+	color: black;
   }
   
   
@@ -177,6 +177,6 @@ body {
   }
   
   .white-text {
-	color: white;
+	color: black;
   }
  
